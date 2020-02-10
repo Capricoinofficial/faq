@@ -7,7 +7,7 @@
 
 1. Download the new Capricoin+ wallet appropriate for your system from [here]([https://new.capricoin.org/downloads)
 
-2. Install the new wallet, we will use windows as an example  ![enter image description here](https://new.capricoin.org/images/guide/install-screen.png)
+2. Install the new wallet, we will use windows as an example
 
 3. Start the new wallet and choose the default directory ![enter image description here](https://new.capricoin.org/images/guide/start-wallet.png)
 
