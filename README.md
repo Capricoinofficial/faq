@@ -13,10 +13,10 @@
  - The new Capricoin+ github repository is reachable [here](https://github.com/Capricoinofficial/capricoinplus-core)
  - Deterministic signed builds of Capricoin+ can be found here [here](https://github.com/Capricoinofficial/capricoinplus-core/releases)
  - Users can swap their old Capricoins by visiting the [official site](https://capricoin.org) instruction on how to swap should be available [here](https://capricoin.org/faq)
- - Users that need help or support should reachout through official channels ot by emailing support@capricoin.org
+ - Users that need help or support should reachout through official channels or by emailing support@capricoin.org
  
 **This is what Exchanges needs to know:**
- - On top of the above Exchanges could arrange a swap either by using the swap platform and letting us know in advance or by doing a manual swap (arranged by our team)
+ - On top of the above, Exchanges could arrange a swap either by using the [swap platform](https://capricoin.org/upgrade) and letting us know in advance or by doing a manual swap arranged by our team
  - Capricoin trading pairs should be changed to Capricoin+ trading pairs and the ticker should be changed to CPS
  - Users balances should be swapped to Capricoin+(CPS) 
    
