@@ -5,7 +5,7 @@
 
 ![enter image description here](https://capricoin.org/images/guide/How_to_create_a_new_Capricoin+_wallet.gif)
 
-1. Download the new Capricoin+ wallet appropriate for your system from [here]([https://capricoin.org/downloads)
+1. Download the new Capricoin+ wallet appropriate for your system from [here](https://capricoin.org/downloads)
 
 2. Install the new wallet, we will use windows as an example
 
